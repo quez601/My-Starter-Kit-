@@ -5,7 +5,7 @@ class Layout extends Component {
 	constructor() {
 		super();
 		this.state = {
-			name: 'Joe'
+			name: 'Marquez Pickett'
 		};
 	}
 	clickedBtn = () => {};
